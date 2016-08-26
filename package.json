@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@bird-cage/number-formatter",
   "version": "0.0.1",
   "description": "just a npm tut",
   "main": "index.js",
