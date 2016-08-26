@@ -1,0 +1,27 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "just a npm tut",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bird-cage/number-formatter.git"
+  },
+  "keywords": [
+    "test",
+    "tut"
+  ],
+  "author": "Richard Frenken <npm@bird-cage.org> (http://bird-cage.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bird-cage/number-formatter/issues"
+  },
+  "homepage": "https://github.com/bird-cage/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
